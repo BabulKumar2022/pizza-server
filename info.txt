@@ -1,0 +1,6 @@
+Publishable key = pk_test_51N3LwID3DUasc0CjWrvh6w9hpnOfLFxauyxUttcSsyQ644DmA7DEOFc1VWhy4pU5zUI2eDCJJ5Mr6kc2uLVoyZS900n2nL5zM6
+
+
+
+Secret key = sk_test_51N3LwID3DUasc0CjVIsJmI7RAlUfDJ7z5QK8R4zQ0MPQVAHNPeT7lQBomCVhjcELmht0VWvbu1Nn6BffMFUOZzS800HyPESzbl
+	

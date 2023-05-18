@@ -14,7 +14,7 @@ connectDB()
 
 const app = express()
 
-  
+     
 //middleware
 app.use(express.json())
 app.use(morgan('dev'))
@@ -22,6 +22,8 @@ app.use(cors('cors'))
   
 // route
 app.use("/api/pizzas", require("./routes/pizzaRoute"))
+app.use("/api/users", require("./routes/userRoute"))
+app.use("/api/orders", require("./routes/orderRoute"))
 
 app.get('/',(req, res)=>{
 res.send('<h3> Node server Running </h3>')
